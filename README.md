@@ -1,10 +1,5 @@
-## Nice To Meet You Sir👋
+## HI👋
 
-## Tech Stack
-- 🖥️ Frontend: React, Vue, Angular
-- ⚙️ Backend: Node.js, Django, Spring Boot
-- 🗄️ Database: MySQL, PostgreSQL, MongoDB
-- ☁️ Cloud: AWS, Firebase, Azure
 
 <!--
 **angganyobaIT/angganyobaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
