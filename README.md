@@ -4,6 +4,12 @@
 **angganyobaIT/angganyobaIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+dashboard test
+## Tech Stack
+- 🖥️ Frontend: React, Vue, Angular
+- ⚙️ Backend: Node.js, Django, Spring Boot
+- 🗄️ Database: MySQL, PostgreSQL, MongoDB
+- ☁️ Cloud: AWS, Firebase, Azure
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
