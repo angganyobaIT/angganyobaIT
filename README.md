@@ -1,4 +1,4 @@
-##  Hi there! 👋 I'm Dennise Surya Anggara
+#Hi there! 👋 I'm Dennise Surya Anggara
 
 
 <!--
