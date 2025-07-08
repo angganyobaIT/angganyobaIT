@@ -6,7 +6,13 @@
 
 <br clear="both">
 
-<h2 align="center">hey! I am Dennise Surya Anggara</h2>
+<h1 align="center">hey! I am Dennise Surya Anggara</h1>
+
+###
+
+<br clear="both">
+
+<h4 align="center">A 2024 undergraduate student at the Faculty of Computer Science, University of Jember, majoring in Information Technology.</h4>
 
 ###
 
@@ -25,7 +31,9 @@
 
 ###
 
-<h3 align="left">👨‍💻The language currently being learned</h3>
+<br clear="both">
+
+<h2 align="left">The language currently being learned</h2>
 
 ###
 
@@ -43,7 +51,7 @@
 
 ###
 
-<h3 align="left">🛠The language used in the last project</h3>
+<h2 align="left">The language used in the last project</h2>
 
 ###
 
@@ -59,7 +67,7 @@
 
 ###
 
-<h3 align="left">📊GitHub Info</h3>
+<h2 align="left">GitHub Info</h2>
 
 ###
 
