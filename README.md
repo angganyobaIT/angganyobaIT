@@ -4,13 +4,9 @@
 
 ###
 
-<br clear="both">
-
-<h1 align="center">hey! I am Dennise Surya Anggara</h1>
+<h2 align="center">hey! I am Dennise Surya Anggara</h2>
 
 ###
-
-<br clear="both">
 
 <h4 align="center">A 2024 undergraduate student at the Faculty of Computer Science, University of Jember, majoring in Information Technology.</h4>
 
@@ -33,7 +29,7 @@
 
 <br clear="both">
 
-<h2 align="left">The language currently being learned</h2>
+<h3 align="left">The language currently being learned</h3>
 
 ###
 
@@ -51,7 +47,7 @@
 
 ###
 
-<h2 align="left">The language used in the last project</h2>
+<h3 align="left">The language used in the last project</h3>
 
 ###
 
@@ -67,7 +63,7 @@
 
 ###
 
-<h2 align="left">GitHub Info</h2>
+<h3 align="left">GitHub Info</h3>
 
 ###
 
@@ -90,6 +86,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angganyobait/angganyobait/output/pacman-contribution-graph-dark.svg">
