@@ -29,7 +29,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -47,7 +47,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -59,7 +59,7 @@
 
 ###
 
-<h3 align="left">GitHub Info</h3>
+<h3 align="left">📊GitHub Info</h3>
 
 ###
 
@@ -72,8 +72,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=angganyobait&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angganyobait&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=11&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=angganyobait&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=10&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angganyobait&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
